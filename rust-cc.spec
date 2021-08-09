@@ -8,8 +8,8 @@
 %global crate cc
 
 Name:           rust-%{crate}
-Version:        1.0.50
-Release:        2%{?dist}
+Version:        1.0.69
+Release:        1
 Summary:        Build-time dependency for Cargo build scripts to invoke the native C compiler
 
 # Upstream license specification: MIT/Apache-2.0
