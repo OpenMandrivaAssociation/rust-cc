@@ -8,7 +8,7 @@
 
 Name:           rust-%{crate}
 Version:        1.0.72
-Release:        1
+Release:        2
 Summary:        Build-time dependency for Cargo build scripts to invoke the native C compiler
 
 # Upstream license specification: MIT/Apache-2.0
